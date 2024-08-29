@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTINF:-1 tvg-chno="3" tvg-id="France3.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 3
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
 
-#EXTINF: Canal+
+#CANAL+
 #EXTINF:-1 tvg-chno="4" tvg-id="CanalPlus.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" tvg-country="FR" group-title="FRANCE",CANAL+
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
 
