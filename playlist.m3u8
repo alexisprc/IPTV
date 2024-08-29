@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3
 
 #NRJ12
 #EXTINF:-1 tvg-chno="12" tvg-id="NRJ12.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/NRJ12_color.png?h=100" tvg-country="FR" group-title="FRANCE",NRJ 12
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj/nrj12.m3u8
+https://event1.nrjaudio.fm/hls/live/2038378/nrj_12/master.m3u8?hdnts=exp=1725024028~acl=/*~hmac=2d57e64ebaa581633fa2a2c4ea09a3056b921ee2db88006101482688a61ef57d
 
 #FRANCE 4
 #EXTINF:-1 tvg-chno="14" tvg-id="France4.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 4
