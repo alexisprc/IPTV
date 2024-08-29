@@ -52,7 +52,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 
 #CNEWS
 #EXTINF:-1 tvg-chno="16" tvg-id="CNews.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="FRANCE",C NEWS
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
+https://live-b.cf.dmcdn.net/sec2(c0MoCGctAREr9WWJbUDpo9XwpuiTmRzuDV3qAznYA80TI1UZEKaNytHs9xgsDfkEolAZoWNF0dlJ6ZKID1PuXe3UKB2hTSuppiNCNJUpdfc)/dm/3/x3b68jn/d/live-720@60.m3u8#cell=lcfb
 
 #CSTAR
 #EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100" tvg-country="FR" group-title="FRANCE",CStar
