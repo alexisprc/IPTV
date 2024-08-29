@@ -13,6 +13,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
 
 #EXTINF:-1, Canal+
+#EXTINF:-1 tvg-chno="4" tvg-id="CanalPlus.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" tvg-country="FR" group-title="FRANCE",CANAL+
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
 
 #EXTINF:-1, Canal+ Cinéma
@@ -50,7 +51,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 
 #CNEWS
-#EXTINF:-1 tvg-chno="16" tvg-id="CNews.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="FRANCE",C NEWS [1080p-canalplus.com]
+#EXTINF:-1 tvg-chno="16" tvg-id="CNews.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="FRANCE",C NEWS
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
 
 #CSTAR
@@ -66,7 +67,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/gulli.m
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
 
 #LA CHAÎNE L'EQUIPE
-#EXTINF:-1 tvg-chno="43" tvg-id="LEquipe21.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="FRANCE",LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]
+#EXTINF:-1 tvg-chno="43" tvg-id="LEquipe21.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="FRANCE",LA CHAÎNE L'ÉQUIPE
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lequipe.m3u8
 
 #6TER
