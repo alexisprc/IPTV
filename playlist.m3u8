@@ -23,9 +23,8 @@ https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/2oozmKr2RRjMaoU8gT
 https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/jN7V0JOZuc9UnaqXDaSASem6Xj_z8GUNKuqYbcawQ6jVww_LyjaaCbHxzF5BdrN2YFtF61THgqYZh3rsyUr4gDbYe1Fn7smfEWAaR-g7uAhPq8r34aCP_YtwvIoln8HwYLSVxFFPQI7bO8NI-PiDze3kKJetN6Hyff6289gO-Ow/hls/index.m3u8
 
 #M6
-#EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/M6100x100.png?h=100" tvg-country="FR" group-title="FRANCE",M6 [OFFLINE]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/m6.m3u8
-
+#EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/M6100x100.png?h=100" tvg-country="FR" group-title="FRANCE",M6
+http://gratuittv.free.fr/Files/m6/live/playlist.m3u8
 #W9
 #EXTINF:-1 tvg-chno="9" tvg-id="W9.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/W9_color.png?h=100" tvg-country="FR" group-title="FRANCE",W9 [OFFLINE]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/w9.m3u8
