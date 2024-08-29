@@ -86,8 +86,8 @@ https://cherie25.nrjaudio.fm/hls/live/2038375/c25/3/media.m3u8
 http://gratuittv.free.fr/Files/parispremier/live/playlist.m3u8
 
 #TEVA
-#EXTINF:-1 tvg-chno="40" tvg-id="Teva.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Teva_color.png?h=100" tvg-country="FR" group-title="FRANCE",Téva [OFFLINE]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/teva.m3u8
+#EXTINF:-1 tvg-chno="40" tvg-id="Teva.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Teva_color.png?h=100" tvg-country="FR" group-title="FRANCE",Téva
+http://gratuittv.free.fr/Files/teva/live/playlist.m3u8
 
 #EXTINF:-1, RTL9
 https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/7Bf3ZNtoNwD87JbLI4yJTtRqM9m8RD2J_LuC4xuIp92iZNDb7sawX47YHnGkvGiVj7yqUuRoZG9ci1znjzLiLy3FiAu8tXzl2Ap_Wo3ybfjn0FSDcJCcPCfqUAxn_bUzq8uMfYYpByjWsVGktiUKTI5GHD_Ws2LYViiGe_tml4A/hls/index.m3u8
