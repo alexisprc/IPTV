@@ -80,7 +80,7 @@ https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #CHERIE 25
 #EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Cherie_25_color.png?h=100" tvg-country="FR" group-title="FRANCE",Chérie 25
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj/cherie25.m3u8
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/3/media.m3u8
 
 #PARIS PREMIERE
 #EXTINF:-1 tvg-chno="41" tvg-id="ParisPremiere.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Paris_Premiere_color.png?h=100" tvg-country="FR" group-title="FRANCE",Paris Premiere [OFFLINE]
