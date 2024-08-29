@@ -82,8 +82,9 @@ https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/3/media.m3u8
 
 #PARIS PREMIERE
-#EXTINF:-1 tvg-chno="41" tvg-id="ParisPremiere.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Paris_Premiere_color.png?h=100" tvg-country="FR" group-title="FRANCE",Paris Premiere [OFFLINE]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/parispremiere.m3u8
+#EXTINF:-1 tvg-chno="41" tvg-id="ParisPremiere.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Paris_Premiere_color.png?h=100" tvg-country="FR" group-title="FRANCE",Paris Premiere
+http://gratuittv.free.fr/Files/parispremier/live/playlist.m3u8
+
 #TEVA
 #EXTINF:-1 tvg-chno="40" tvg-id="Teva.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Teva_color.png?h=100" tvg-country="FR" group-title="FRANCE",Téva [OFFLINE]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/teva.m3u8
