@@ -90,7 +90,8 @@ http://gratuittv.free.fr/Files/parispremier/live/playlist.m3u8
 http://gratuittv.free.fr/Files/teva/live/playlist.m3u8
 
 #EXTINF:-1, RTL9
-https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/7Bf3ZNtoNwD87JbLI4yJTtRqM9m8RD2J_LuC4xuIp92iZNDb7sawX47YHnGkvGiVj7yqUuRoZG9ci1znjzLiLy3FiAu8tXzl2Ap_Wo3ybfjn0FSDcJCcPCfqUAxn_bUzq8uMfYYpByjWsVGktiUKTI5GHD_Ws2LYViiGe_tml4A/hls/index.m3u8
+30 tvg-id="RTL9.lu" tvg-name="RTL9" tvg-logo="https://www.free.fr/assets/s3/29_38439c7137.png" tvg-chno="30" group-title="GÉNÉRALISTE"
+http://gratuittv.free.fr/Files/rtl9/live/playlist.m3u8
 
 #EXTINF:-1, TV BREIZH
 https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/ygcKazK7eaRYNHxubSlnnxSlnzWdSdp0OFMpfNAe8N0ej3plmHtafJQy8IZuDG7XnV7GN5DtHSBq3NxQMzWDA6tj32Ei6Vx9lwm9HjY1m1ZhWqn7zmFCU9dp1XuIymytlXqjD4zauv3ETiDcS6JCVr7syB8VHeLJmAPQ9OZi0_Y/hls/index.m3u8
