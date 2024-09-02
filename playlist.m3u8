@@ -117,18 +117,26 @@ https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/MUev5ChHwM6fF4M2fV
 #EXTINF:-1, Paramount Channel
 https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/NE7_wjO63ZBlDDUcmMBczJnbEhSlFaFkpUMXDkM6j-gah4zYUrv9xkZXPvNhjdw4JgkabC0r7t8W4VF0BKdU9G0cWrgSrU8YylntfxDDYHqShgIXxAEDXoLf3_5vcGCbfit33sWVT5iEvnt0P3gLuRvl5dQCDUqHKKm-enmDUi8/hls/index.m3u8
 
-#EXTINF:-1, RTP 1
-#EXTINF:-1 tvg-chno="1" tvg-id="RTP1.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png?q=10&v=3&w=275" tvg-country="PT" group-title="PORTUGAL",RTP1
-https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 
-#EXTINF:-1, RTP 2
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/GXcBWgpLEcSnKXNg3XWc8DoQSX75C0oE3wPLw8LHztYf5DwiA7dCyHEENLycCaG8ihm2uP3cJGli_8Uvj2csfcl-ff4e_9wmZhbJckbT8rvOnxRxAyD5Kygi2WjVq52dRwObOU66jqT7Mrh9r0wMtXqtPyrEwqK_vfhBtTKTvU0/hls/index.m3u8
+#EXTINF:-1 group-title="Generalista" tvg-id="RTP1" tvg-logo="https://raw.githubusercontent.com/Dacosta1977/IPTV_PT/main/Logos/pt_RTP1.png",RTP 1
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:http-referrer=https://rtp.pt/
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
-#EXTINF:-1, RTP 3
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/E5jKJhL0mNV8ntxbrSR5N4QXBFWadOU-KxJFurOZy1ieNt-6D4lCLgmWx6HDGlCOoZHZPBJL8mcSAFLRvNKwsvEiyzUkNjyw5cUz13DGY6eJZat53QLHahqYgMiv1C1chlWDb2C94UMlWlJJqBzHrA_zkCCYZGn6FhpVEgMBhuc/hls/index.m3u8
+#EXTINF:-1 group-title="Generalista" tvg-id="RTP2" tvg-logo="https://raw.githubusercontent.com/Dacosta1977/IPTV_PT/main/Logos/pt_RTP2.png",RTP 2
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:http-referrer=https://rtp.pt/
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 
-#EXTINF:-1, RTP Memoria
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/KASfK319Kwgl4BB_OYkQY0DfMQ-kOaebQFFADafGpWmBogWvUvXbhD8FLU-7ArTk2d7A2C9plyusV91YfHb-f2w2t_Wz2E1pv9qJq_gmmEIaMnS-S_2MvyI5Hv6OX7W7mcVHnk-M9a6XbrKLfjGpuboKYodf7ennh90HySVNg8w/hls/index.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta1977/IPTV_PT/main/Logos/pt_RTP3.png",RTP 3
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:http-referrer=https://rtp.pt/
+https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Entretenimento" tvg-id="RTPMemoria.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta1977/IPTV_PT/main/Logos/pt_RTPMemoria.png",RTP Memória
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:http-referrer=https://rtp.pt/
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 
 #EXTINF:-1, Benfica TV
 https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/uxo9M3eIGL_ZbyuCz7gN5kL8WMQMYoOoE3yoG1Rpau7_8R5IPuVsvk8H-mJmOEtSnmQRSVERqIJvq_ygVX8ARJwfN0tDUDUs8VR750MEgXxrU3cK324_fEP200Usp4s1uhclBLc8ovh_BCg46eG4no26I2uVBWVWqu_EL7JbUbA/hls/index.m3u8
