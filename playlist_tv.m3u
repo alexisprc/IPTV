@@ -216,7 +216,7 @@ http://bossip.net:80/live/boranredbox/qsdqsdfgcvbcbcv/1880.m3u8
 #EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="|FR| EUROSPORT 2 HD" tvg-logo="http://myking.best/ch_logo/EUROSPORT2HD.png" group-title="|FR| SPORT",|FR| EUROSPORT 2 HD
 http://bossip.net:80/live/boranredbox/qsdqsdfgcvbcbcv/1877.m3u8
 #EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="|FR| EUROSPORT FRANCE HD" tvg-logo="http://myking.best/ch_logo/EUROSPORT1HD.png" group-title="|FR| SPORT",|FR| EUROSPORT FRANCE HD
-http://iptvtree.net:8080/romaniamedia/d1eca5410a/151
+https://raw.githubusercontent.com/alexisprc/IPTV/refs/heads/main/eurosport1.m3u8
 #EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="|FR| INFOSPORT HD" tvg-logo="http://myking.best/ch_logo/infosport.png" group-title="|FR| SPORT",|FR| INFOSPORT HD
 http://bossip.net:80/live/boranredbox/qsdqsdfgcvbcbcv/1879.m3u8
 #EXTINF:-1 tvg-id="golfplus.fr" tvg-name="|FR| GOLF FR HD" tvg-logo="http://myking.best/ch_logo/220px-Golf+.svg.png" group-title="|FR| SPORT",|FR| GOLF FR HD
